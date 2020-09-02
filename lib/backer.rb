@@ -11,9 +11,7 @@ class Backer
   
   def add_backer
     
-    
   end 
   
-  def 
   
 end 

@@ -6,7 +6,6 @@ class Backer
   
   def back_project
     
-    
   end 
   
   def add_backer

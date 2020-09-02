@@ -9,6 +9,11 @@ class Backer
     
   end 
   
+  def add_backer
+    
+    
+  end 
+  
   
   
 end 
